@@ -2,7 +2,7 @@
 
 A collection of small linux projects, that includes:
 
-- bash and CLI
+- bash and CLI ✅ 
 - Linux administration
 - Nginx and monitoring
 - Docker
